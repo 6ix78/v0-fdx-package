@@ -84,7 +84,7 @@ export default function RootLayout({
         <Script id="smartsupp-chat" strategy="afterInteractive">
           {`
             var _smartsupp = _smartsupp || {};
-            _smartsupp.key = '34ae7cbd69cbca24b47a953b65756853cef09f43';
+            _smartsupp.key = '2e34d7237fd0b88423f1c3c3010becc99d482297';
             window.smartsupp||(function(d) {
               var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
               s=d.getElementsByTagName('script')[0];c=d.createElement('script');

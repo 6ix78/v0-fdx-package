@@ -13,6 +13,18 @@ export interface PackageHistoryItem {
 
 export const packageHistory: PackageHistoryItem[] = [
   {
+    id: "7",
+    trackingNumber: "FX923847561CN",
+    from: "Weifang, Shandong Province, China",
+    to: "Ankara, Turkey",
+    receiver: "Peter Campajackson",
+    status: "inTransit",
+    shipDate: "2025-02-23",
+    deliveryDate: "2025-03-03",
+    service: "FedEx Express International",
+    cost: 750,
+  },
+  {
     id: "6",
     trackingNumber: "FX847392156AF",
     from: "Kaboul - 587, Karte Se Kabul, 1001, Afghanistan",

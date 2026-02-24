@@ -9,7 +9,7 @@ export function SmartSuppChat() {
     script.type = "text/javascript"
     script.innerHTML = `
       var _smartsupp = _smartsupp || {};
-      _smartsupp.key = '34ae7cbd69cbca24b47a953b65756853cef09f43';
+      _smartsupp.key = 'e41d4d781a530f18b87fc43bfae77556907d2297';
       window.smartsupp||(function(d) {
         var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
         s=d.getElementsByTagName('script')[0];c=d.createElement('script');
